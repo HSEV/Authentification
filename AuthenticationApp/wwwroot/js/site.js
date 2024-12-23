@@ -46,3 +46,33 @@ const register = async (event) => {
         messageElement.innerHTML = `<p style="color: red;">${errorText}</p>`;
     }
 };
+
+
+const resetPassword = async (event) => {
+    event.preventDefault(); // Empêche le rechargement de la page
+
+    const email = document.getElementById('email').value;
+    const newPassword = document.getElementById('new-password').value;
+
+    const response = await fetch('/Auth/ResetPassword', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email, newPassword }) // Envoi de l'objet JSON au backend
+    });
+
+    const messageElement = document.getElementById('message');
+
+    if (response.ok) {
+        const result = await response.json();
+        messageElement.innerHTML = `<p style="color: green;">${result.message}</p>`;
+        // Redirige vers la page de connexion après un délai
+        setTimeout(() => {
+            window.location.href = '/index.html';
+        }, 2000);
+    } else {
+        const errorText = await response.text(); // Récupère le message d'erreur
+        messageElement.innerHTML = `<p style="color: red;">${errorText}</p>`;
+    }
+};

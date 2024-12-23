@@ -4,90 +4,128 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-public class AuthController : Controller
+namespace AuthenticationApp.Controllers
 {
-    private readonly SqliteConnection _connection;
-
-    public AuthController(SqliteConnection connection)
+    public class AuthController : Controller
     {
-        _connection = connection;
-    }
+        private readonly SqliteConnection _connection;
 
-    [HttpPost]
-    public async Task<IActionResult> Login([FromBody] LoginModel model)
-    {
-        await _connection.OpenAsync();
-        var command = _connection.CreateCommand();
-        command.CommandText = "SELECT Id, PasswordHash FROM Users WHERE Email = @Email";
-        command.Parameters.AddWithValue("@Email", model.Email);
-
-        using (var reader = await command.ExecuteReaderAsync())
+        public AuthController(SqliteConnection connection)
         {
-            if (await reader.ReadAsync())
-            {
-                var userId = reader.GetInt32(0);
-                var storedPasswordHash = reader.GetString(1);
+            _connection = connection;
+        }
 
-                if (VerifyPasswordHash(model.Password, storedPasswordHash))
+        [HttpPost]
+        public async Task<IActionResult> Login([FromBody] LoginModel model)
+        {
+            await _connection.OpenAsync();
+            var command = _connection.CreateCommand();
+            command.CommandText = "SELECT Id, PasswordHash FROM Users WHERE Email = @Email";
+            command.Parameters.AddWithValue("@Email", model.Email);
+
+            using (var reader = await command.ExecuteReaderAsync())
+            {
+                if (await reader.ReadAsync())
                 {
-                    return Ok(new { message = "Login successful", userId, email = model.Email });
+                    var userId = reader.GetInt32(0);
+                    var storedPasswordHash = reader.GetString(1);
+
+                    if (VerifyPasswordHash(model.Password, storedPasswordHash))
+                    {
+                        return Ok(new { message = "Login successful", userId, email = model.Email });
+                    }
                 }
+            }
+
+            return Unauthorized("Invalid email or password");
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Register([FromBody] RegisterModel model)
+        {
+            await _connection.OpenAsync();
+            var command = _connection.CreateCommand();
+            command.CommandText = "SELECT COUNT(1) FROM Users WHERE Email = @Email";
+            command.Parameters.AddWithValue("@Email", model.Email);
+
+            var count = (long)await command.ExecuteScalarAsync();
+            if (count > 0)
+            {
+                return BadRequest("Email already in use");
+            }
+
+            var passwordHash = HashPassword(model.Password);
+
+            command.CommandText = "INSERT INTO Users (Email, Username, PasswordHash) VALUES (@Email, @Username, @PasswordHash)";
+            command.Parameters.AddWithValue("@Username", model.Username);
+            command.Parameters.AddWithValue("@PasswordHash", passwordHash);
+
+            await command.ExecuteNonQueryAsync();
+
+            return Ok(new { message = "Account created successfully", email = model.Email });
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordModel model)
+        {
+            await _connection.OpenAsync();
+            var command = _connection.CreateCommand();
+            command.CommandText = "SELECT COUNT(1) FROM Users WHERE Email = @Email";
+            command.Parameters.AddWithValue("@Email", model.Email);
+
+            var count = (long)await command.ExecuteScalarAsync();
+            if (count == 0)
+            {
+                return BadRequest("Email not found");
+            }
+
+            var passwordHash = HashPassword(model.NewPassword);
+
+            command.CommandText = "UPDATE Users SET PasswordHash = @PasswordHash WHERE Email = @Email";
+            command.Parameters.AddWithValue("@PasswordHash", passwordHash);
+
+            await command.ExecuteNonQueryAsync();
+
+            return Ok(new { message = "Password reset successfully" });
+        }
+
+        public class ResetPasswordModel
+        {
+            public string Email { get; set; } = string.Empty;
+            public string NewPassword { get; set; } = string.Empty;
+        }
+        private string HashPassword(string password)
+        {
+            using (var sha256 = SHA256.Create())
+            {
+                var bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
+                return Convert.ToBase64String(bytes);
             }
         }
 
-        return Unauthorized("Invalid email or password");
-    }
-
-    [HttpPost]
-    public async Task<IActionResult> Register([FromBody] RegisterModel model)
-    {
-        await _connection.OpenAsync();
-        var command = _connection.CreateCommand();
-        command.CommandText = "SELECT COUNT(1) FROM Users WHERE Email = @Email";
-        command.Parameters.AddWithValue("@Email", model.Email);
-
-        var count = (long)await command.ExecuteScalarAsync();
-        if (count > 0)
+        private bool VerifyPasswordHash(string password, string storedHash)
         {
-            return BadRequest("Email already in use");
-        }
-
-        var passwordHash = HashPassword(model.Password);
-
-        command.CommandText = "INSERT INTO Users (Email, Username, PasswordHash) VALUES (@Email, @Username, @PasswordHash)";
-        command.Parameters.AddWithValue("@Username", model.Username);
-        command.Parameters.AddWithValue("@PasswordHash", passwordHash);
-
-        await command.ExecuteNonQueryAsync();
-
-        return Ok(new { message = "Account created successfully", email = model.Email });
-    }
-
-    private string HashPassword(string password)
-    {
-        using (var sha256 = SHA256.Create())
-        {
-            var bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
-            return Convert.ToBase64String(bytes);
+            var hash = HashPassword(password);
+            return hash == storedHash;
         }
     }
 
-    private bool VerifyPasswordHash(string password, string storedHash)
+    public class LoginModel
     {
-        var hash = HashPassword(password);
-        return hash == storedHash;
+        public string Email { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
     }
-}
 
-public class LoginModel
-{
-    public string Email { get; set; } = string.Empty;
-    public string Password { get; set; } = string.Empty;
-}
+    public class RegisterModel
+    {
+        public string Email { get; set; } = string.Empty;
+        public string Username { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+    }
 
-public class RegisterModel
-{
-    public string Email { get; set; } = string.Empty;
-    public string Username { get; set; } = string.Empty;
-    public string Password { get; set; } = string.Empty;
+    public class ResetPasswordModel
+    {
+        public string Email { get; set; } = string.Empty;
+        public string NewPassword { get; set; } = string.Empty;
+    }
 }

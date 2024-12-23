@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vt4henwdyZtXaQ+Y4B/3OiJUzKpdYZxZ33Srivhwjgs=",
+  "Hash": "odDtj1e+cV7HVSzvEeX94EzCqxviyj9nc3KafMQPYkk=",
   "Source": "AuthenticationApp",
   "BasePath": "_content/AuthenticationApp",
   "Mode": "Default",
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-9psyntlu5g.gz",
+      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-lnizifgks6.gz",
       "SourceId": "AuthenticationApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/AuthenticationApp",
-      "RelativePath": "js/site#[.{fingerprint=9psyntlu5g}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=lnizifgks6}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/js/site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cdkk39vpwf",
-      "Integrity": "IHve64J/VGJEHI66EVRVzOJQcRNgbcdH3N637mL48EY=",
+      "Fingerprint": "kj2ox8vc9l",
+      "Integrity": "4PMux1rbE9gSyHYfCpQfK93HDoobsAgxeqqpXbJ+zXQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/js/site.js"
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-mywim4zxkt.gz",
+      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-lls0o1z9tk.gz",
       "SourceId": "AuthenticationApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/AuthenticationApp",
-      "RelativePath": "register#[.{fingerprint=mywim4zxkt}]?.html.gz",
+      "RelativePath": "register#[.{fingerprint=lls0o1z9tk}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/register.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8t4hi3yoph",
-      "Integrity": "ZG/T3CjXG5ul4+psCZodGruGYVZuxD6ANit0dOfjJIM=",
+      "Fingerprint": "572keb3rqe",
+      "Integrity": "3+2Vy1ED8jqZER1QZ41vqRGdzJzlQaHxQ7jxyMaVVks=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/register.html"
@@ -941,12 +941,33 @@
       "OriginalItemSpec": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-8jz1u3zkfi.gz",
+      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdi25f4o4r-u0podp08t0.gz",
       "SourceId": "AuthenticationApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/AuthenticationApp",
-      "RelativePath": "index#[.{fingerprint=8jz1u3zkfi}]?.html.gz",
+      "RelativePath": "forgot_password#[.{fingerprint=u0podp08t0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/forgot_password.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q0c5n22owp",
+      "Integrity": "5lTRKRbN7caEcms3cpwpY1QVs1QdNWxIGW277djXzMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/forgot_password.html"
+    },
+    {
+      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-s2a749sctz.gz",
+      "SourceId": "AuthenticationApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AuthenticationApp",
+      "RelativePath": "index#[.{fingerprint=s2a749sctz}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -955,8 +976,8 @@
       "RelatedAsset": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yv0gq3vkb4",
-      "Integrity": "fp4g7QkHi6oXK/8n9VI7nVLLW7n7aIbblU2MLMtsHZo=",
+      "Fingerprint": "jrpu14br7v",
+      "Integrity": "EYE8DVqsPwnUdFR+zst6f2T/8oSeECd9IZ0v4YM9IzE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/index.html"
@@ -1529,6 +1550,27 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+      "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/forgot_password.html",
+      "SourceId": "AuthenticationApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/",
+      "BasePath": "_content/AuthenticationApp",
+      "RelativePath": "forgot_password#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u0podp08t0",
+      "Integrity": "rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/forgot_password.html"
+    },
+    {
       "Identity": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/index.html",
       "SourceId": "AuthenticationApp",
       "SourceType": "Discovered",
@@ -1543,8 +1585,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8jz1u3zkfi",
-      "Integrity": "JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM=",
+      "Fingerprint": "s2a749sctz",
+      "Integrity": "PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
@@ -1564,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9psyntlu5g",
-      "Integrity": "zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI=",
+      "Fingerprint": "lnizifgks6",
+      "Integrity": "MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
@@ -2845,8 +2887,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mywim4zxkt",
-      "Integrity": "Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o=",
+      "Fingerprint": "lls0o1z9tk",
+      "Integrity": "ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/register.html"
@@ -4344,13 +4386,13 @@
       ]
     },
     {
-      "Route": "index.8jz1u3zkfi.html",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-8jz1u3zkfi.gz",
+      "Route": "forgot_password.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdi25f4o4r-u0podp08t0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002036659878"
+          "Quality": "0.002272727273"
         }
       ],
       "ResponseHeaders": [
@@ -4360,15 +4402,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "490"
+          "Value": "439"
         },
         {
           "Name": "ETag",
-          "Value": "\"fp4g7QkHi6oXK/8n9VI7nVLLW7n7aIbblU2MLMtsHZo=\""
+          "Value": "\"5lTRKRbN7caEcms3cpwpY1QVs1QdNWxIGW277djXzMg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:06:59 GMT"
+          "Value": "Mon, 23 Dec 2024 14:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8="
+        }
+      ]
+    },
+    {
+      "Route": "forgot_password.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/forgot_password.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8="
+        }
+      ]
+    },
+    {
+      "Route": "forgot_password.html.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdi25f4o4r-u0podp08t0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "439"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5lTRKRbN7caEcms3cpwpY1QVs1QdNWxIGW277djXzMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5lTRKRbN7caEcms3cpwpY1QVs1QdNWxIGW277djXzMg="
+        }
+      ]
+    },
+    {
+      "Route": "forgot_password.u0podp08t0.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdi25f4o4r-u0podp08t0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002272727273"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "439"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5lTRKRbN7caEcms3cpwpY1QVs1QdNWxIGW277djXzMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4388,26 +4567,179 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM=\""
+          "Value": "W/\"rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8jz1u3zkfi"
+          "Value": "u0podp08t0"
         },
         {
           "Name": "label",
-          "Value": "index.html"
+          "Value": "forgot_password.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM="
+          "Value": "sha256-rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8="
         }
       ]
     },
     {
-      "Route": "index.8jz1u3zkfi.html",
+      "Route": "forgot_password.u0podp08t0.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/forgot_password.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0podp08t0"
+        },
+        {
+          "Name": "label",
+          "Value": "forgot_password.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rsXnFGl0NUxInv8enA0LDwe2owAO2uksH3oDDjvdSq8="
+        }
+      ]
+    },
+    {
+      "Route": "forgot_password.u0podp08t0.html.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdi25f4o4r-u0podp08t0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "439"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5lTRKRbN7caEcms3cpwpY1QVs1QdNWxIGW277djXzMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0podp08t0"
+        },
+        {
+          "Name": "label",
+          "Value": "forgot_password.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5lTRKRbN7caEcms3cpwpY1QVs1QdNWxIGW277djXzMg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-s2a749sctz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002016129032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYE8DVqsPwnUdFR+zst6f2T/8oSeECd9IZ0v4YM9IzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:48:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
       "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4417,7 +4749,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1098"
+          "Value": "1118"
         },
         {
           "Name": "Content-Type",
@@ -4425,11 +4757,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM=\""
+          "Value": "\"PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:06:59 GMT"
+          "Value": "Mon, 23 Dec 2024 14:48:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-s2a749sctz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYE8DVqsPwnUdFR+zst6f2T/8oSeECd9IZ0v4YM9IzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:48:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYE8DVqsPwnUdFR+zst6f2T/8oSeECd9IZ0v4YM9IzE="
+        }
+      ]
+    },
+    {
+      "Route": "index.s2a749sctz.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-s2a749sctz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002016129032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYE8DVqsPwnUdFR+zst6f2T/8oSeECd9IZ0v4YM9IzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:48:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2a749sctz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08="
+        }
+      ]
+    },
+    {
+      "Route": "index.s2a749sctz.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1118"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:48:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4439,7 +4916,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8jz1u3zkfi"
+          "Value": "s2a749sctz"
         },
         {
           "Name": "label",
@@ -4447,13 +4924,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM="
+          "Value": "sha256-PMlqQFnKfyvjeWGZfVbNOMLBTny0qQeydkeJ2Okzw08="
         }
       ]
     },
     {
-      "Route": "index.8jz1u3zkfi.html.gz",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-8jz1u3zkfi.gz",
+      "Route": "index.s2a749sctz.html.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-s2a749sctz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4462,7 +4939,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "490"
+          "Value": "495"
         },
         {
           "Name": "Content-Type",
@@ -4470,11 +4947,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fp4g7QkHi6oXK/8n9VI7nVLLW7n7aIbblU2MLMtsHZo=\""
+          "Value": "\"EYE8DVqsPwnUdFR+zst6f2T/8oSeECd9IZ0v4YM9IzE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:06:59 GMT"
+          "Value": "Mon, 23 Dec 2024 14:48:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4492,7 +4969,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8jz1u3zkfi"
+          "Value": "s2a749sctz"
         },
         {
           "Name": "label",
@@ -4500,18 +4977,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fp4g7QkHi6oXK/8n9VI7nVLLW7n7aIbblU2MLMtsHZo="
+          "Value": "sha256-EYE8DVqsPwnUdFR+zst6f2T/8oSeECd9IZ0v4YM9IzE="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-8jz1u3zkfi.gz",
+      "Route": "js/site.js",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-lnizifgks6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002036659878"
+          "Quality": "0.001453488372"
         }
       ],
       "ResponseHeaders": [
@@ -4521,156 +4998,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "490"
+          "Value": "687"
         },
         {
           "Name": "ETag",
-          "Value": "\"fp4g7QkHi6oXK/8n9VI7nVLLW7n7aIbblU2MLMtsHZo=\""
+          "Value": "\"4PMux1rbE9gSyHYfCpQfK93HDoobsAgxeqqpXbJ+zXQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:06:59 GMT"
+          "Value": "Mon, 23 Dec 2024 14:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1098"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:06:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JGSlteHcQkdIJqHu7DOF5cObqTYQv81vZUvUREr46YM="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/sdugrr9jtl-8jz1u3zkfi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "490"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fp4g7QkHi6oXK/8n9VI7nVLLW7n7aIbblU2MLMtsHZo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:06:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fp4g7QkHi6oXK/8n9VI7nVLLW7n7aIbblU2MLMtsHZo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.9psyntlu5g.js",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-9psyntlu5g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001574803150"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "634"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IHve64J/VGJEHI66EVRVzOJQcRNgbcdH3N637mL48EY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4686,26 +5026,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI=\""
+          "Value": "W/\"MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "9psyntlu5g"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI="
+          "Value": "sha256-MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc="
         }
       ]
     },
     {
-      "Route": "js/site.9psyntlu5g.js",
+      "Route": "js/site.js",
       "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4715,7 +5047,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1813"
+          "Value": "2900"
         },
         {
           "Name": "Content-Type",
@@ -4723,11 +5055,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI=\""
+          "Value": "\"MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:34 GMT"
+          "Value": "Mon, 23 Dec 2024 14:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-lnizifgks6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4PMux1rbE9gSyHYfCpQfK93HDoobsAgxeqqpXbJ+zXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4PMux1rbE9gSyHYfCpQfK93HDoobsAgxeqqpXbJ+zXQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.lnizifgks6.js",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-lnizifgks6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001453488372"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "687"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4PMux1rbE9gSyHYfCpQfK93HDoobsAgxeqqpXbJ+zXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lnizifgks6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.lnizifgks6.js",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 14:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4737,7 +5214,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9psyntlu5g"
+          "Value": "lnizifgks6"
         },
         {
           "Name": "label",
@@ -4745,13 +5222,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI="
+          "Value": "sha256-MTc46FuPr4xtq6poz32vl4L7vOibDtHYOf5DE3v9ioc="
         }
       ]
     },
     {
-      "Route": "js/site.9psyntlu5g.js.gz",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-9psyntlu5g.gz",
+      "Route": "js/site.lnizifgks6.js.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-lnizifgks6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4760,7 +5237,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "634"
+          "Value": "687"
         },
         {
           "Name": "Content-Type",
@@ -4768,11 +5245,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IHve64J/VGJEHI66EVRVzOJQcRNgbcdH3N637mL48EY=\""
+          "Value": "\"4PMux1rbE9gSyHYfCpQfK93HDoobsAgxeqqpXbJ+zXQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:34 GMT"
+          "Value": "Mon, 23 Dec 2024 14:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4790,7 +5267,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9psyntlu5g"
+          "Value": "lnizifgks6"
         },
         {
           "Name": "label",
@@ -4798,144 +5275,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IHve64J/VGJEHI66EVRVzOJQcRNgbcdH3N637mL48EY="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-9psyntlu5g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001574803150"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "634"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IHve64J/VGJEHI66EVRVzOJQcRNgbcdH3N637mL48EY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/js/site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1813"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zaD32D7/r0YdhT7YaEIi1uTz9YgoVAp5LQ8fFJAJOtI="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/d8vkg7rrme-9psyntlu5g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "634"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IHve64J/VGJEHI66EVRVzOJQcRNgbcdH3N637mL48EY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IHve64J/VGJEHI66EVRVzOJQcRNgbcdH3N637mL48EY="
+          "Value": "sha256-4PMux1rbE9gSyHYfCpQfK93HDoobsAgxeqqpXbJ+zXQ="
         }
       ]
     },
@@ -22605,12 +22945,12 @@
     },
     {
       "Route": "register.html",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-mywim4zxkt.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-lls0o1z9tk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002004008016"
+          "Quality": "0.002169197397"
         }
       ],
       "ResponseHeaders": [
@@ -22620,15 +22960,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "498"
+          "Value": "460"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZG/T3CjXG5ul4+psCZodGruGYVZuxD6ANit0dOfjJIM=\""
+          "Value": "\"3+2Vy1ED8jqZER1QZ41vqRGdzJzlQaHxQ7jxyMaVVks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:18 GMT"
+          "Value": "Mon, 23 Dec 2024 14:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22648,13 +22988,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o=\""
+          "Value": "W/\"ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o="
+          "Value": "sha256-ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0="
         }
       ]
     },
@@ -22669,7 +23009,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1123"
+          "Value": "1149"
         },
         {
           "Name": "Content-Type",
@@ -22677,11 +23017,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o=\""
+          "Value": "\"ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:18 GMT"
+          "Value": "Mon, 23 Dec 2024 14:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22691,13 +23031,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o="
+          "Value": "sha256-ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0="
         }
       ]
     },
     {
       "Route": "register.html.gz",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-mywim4zxkt.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-lls0o1z9tk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22706,7 +23046,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "498"
+          "Value": "460"
         },
         {
           "Name": "Content-Type",
@@ -22714,11 +23054,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZG/T3CjXG5ul4+psCZodGruGYVZuxD6ANit0dOfjJIM=\""
+          "Value": "\"3+2Vy1ED8jqZER1QZ41vqRGdzJzlQaHxQ7jxyMaVVks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:18 GMT"
+          "Value": "Mon, 23 Dec 2024 14:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22736,18 +23076,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZG/T3CjXG5ul4+psCZodGruGYVZuxD6ANit0dOfjJIM="
+          "Value": "sha256-3+2Vy1ED8jqZER1QZ41vqRGdzJzlQaHxQ7jxyMaVVks="
         }
       ]
     },
     {
-      "Route": "register.mywim4zxkt.html",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-mywim4zxkt.gz",
+      "Route": "register.lls0o1z9tk.html",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-lls0o1z9tk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002004008016"
+          "Quality": "0.002169197397"
         }
       ],
       "ResponseHeaders": [
@@ -22757,15 +23097,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "498"
+          "Value": "460"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZG/T3CjXG5ul4+psCZodGruGYVZuxD6ANit0dOfjJIM=\""
+          "Value": "\"3+2Vy1ED8jqZER1QZ41vqRGdzJzlQaHxQ7jxyMaVVks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:18 GMT"
+          "Value": "Mon, 23 Dec 2024 14:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22785,13 +23125,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o=\""
+          "Value": "W/\"ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mywim4zxkt"
+          "Value": "lls0o1z9tk"
         },
         {
           "Name": "label",
@@ -22799,12 +23139,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o="
+          "Value": "sha256-ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0="
         }
       ]
     },
     {
-      "Route": "register.mywim4zxkt.html",
+      "Route": "register.lls0o1z9tk.html",
       "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/register.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22814,7 +23154,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1123"
+          "Value": "1149"
         },
         {
           "Name": "Content-Type",
@@ -22822,11 +23162,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o=\""
+          "Value": "\"ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:18 GMT"
+          "Value": "Mon, 23 Dec 2024 14:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22836,7 +23176,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mywim4zxkt"
+          "Value": "lls0o1z9tk"
         },
         {
           "Name": "label",
@@ -22844,13 +23184,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xk2potGcV1c3wYFCcpUEUcibRZ5QJ0IQIzSz339PL+o="
+          "Value": "sha256-ybwuDnp8vKMWLurpvvz4VbImw43eGo/XbH3HHR9Iqm0="
         }
       ]
     },
     {
-      "Route": "register.mywim4zxkt.html.gz",
-      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-mywim4zxkt.gz",
+      "Route": "register.lls0o1z9tk.html.gz",
+      "AssetFile": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/Debug/net9.0/compressed/ehpkcjub4g-lls0o1z9tk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22859,7 +23199,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "498"
+          "Value": "460"
         },
         {
           "Name": "Content-Type",
@@ -22867,11 +23207,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZG/T3CjXG5ul4+psCZodGruGYVZuxD6ANit0dOfjJIM=\""
+          "Value": "\"3+2Vy1ED8jqZER1QZ41vqRGdzJzlQaHxQ7jxyMaVVks=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 14:08:18 GMT"
+          "Value": "Mon, 23 Dec 2024 14:09:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22889,7 +23229,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mywim4zxkt"
+          "Value": "lls0o1z9tk"
         },
         {
           "Name": "label",
@@ -22897,7 +23237,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZG/T3CjXG5ul4+psCZodGruGYVZuxD6ANit0dOfjJIM="
+          "Value": "sha256-3+2Vy1ED8jqZER1QZ41vqRGdzJzlQaHxQ7jxyMaVVks="
         }
       ]
     }

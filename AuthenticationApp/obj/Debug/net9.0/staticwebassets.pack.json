@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/forgot_password.html",
+      "PackagePath": "staticwebassets/forgot_password.html"
+    },
+    {
       "Id": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
