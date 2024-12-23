@@ -16,24 +16,25 @@ public class AuthController : Controller
     [HttpPost]
     public IActionResult Login([FromBody] LoginModel model) // Le corps de la requête sera un objet JSON
     {
-        var user = _context.Users.SingleOrDefault(u => u.Username == model.Username);
+        var user = _context.Users.SingleOrDefault(u => u.Email == model.Email);
         if (user == null)
         {
-            return Unauthorized("Invalid username or password");
+            return Unauthorized("Invalid email or password");
         }
 
         var result = _passwordHasher.VerifyHashedPassword(user, user.PasswordHash, model.Password);
         if (result == PasswordVerificationResult.Failed)
         {
-            return Unauthorized("Invalid username or password");
+            return Unauthorized("Invalid email or password");
         }
 
-        return Ok(new { message = "Login successful" });
+        return Ok(new { message = "Login successful", userId = user.Id, email = user.Email });
     }
 }
 
 public class LoginModel
 {
-    public string Username { get; set; }
+    public string Email { get; set; }
     public string Password { get; set; }
 }
+
