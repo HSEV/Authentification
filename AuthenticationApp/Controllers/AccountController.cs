@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity; // Pour la gestion des mots de passe
 using System.Linq;
+using System.Threading.Tasks;
 
 public class AuthController : Controller
 {
@@ -30,6 +31,27 @@ public class AuthController : Controller
 
         return Ok(new { message = "Login successful", userId = user.Id, email = user.Email });
     }
+
+    [HttpPost]
+    public async Task<IActionResult> Register([FromBody] RegisterModel model)
+    {
+        if (_context.Users.Any(u => u.Email == model.Email))
+        {
+            return BadRequest("Email already in use");
+        }
+
+        var user = new User
+        {
+            Email = model.Email,
+            Username = model.Username,
+            PasswordHash = _passwordHasher.HashPassword(null, model.Password)
+        };
+
+        _context.Users.Add(user);
+        await _context.SaveChangesAsync();
+
+        return Ok(new { message = "Account created successfully", userId = user.Id, email = user.Email });
+    }
 }
 
 public class LoginModel
@@ -38,3 +60,9 @@ public class LoginModel
     public string Password { get; set; }
 }
 
+public class RegisterModel
+{
+    public string Email { get; set; }
+    public string Username { get; set; }
+    public string Password { get; set; }
+}
