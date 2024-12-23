@@ -26,6 +26,10 @@ else
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+// Configurez l'application pour servir index.html comme page par défaut
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 app.UseRouting();
 
 app.UseAuthentication();
@@ -34,9 +38,5 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
-// Configurez l'application pour servir index.html comme page par défaut
-app.UseDefaultFiles();
-app.UseStaticFiles();
 
 app.Run();

@@ -17,7 +17,6 @@
         alert(errorText); // Affiche le message d'erreur retourné par le serveur
     }
 };
-
 const register = async (event) => {
     event.preventDefault(); // Empêche le rechargement de la page
 
@@ -33,11 +32,17 @@ const register = async (event) => {
         body: JSON.stringify({ username, email, password }) // Envoi de l'objet JSON au backend
     });
 
+    const messageElement = document.getElementById('message');
+
     if (response.ok) {
-        alert('Account created successfully');
-        window.location.href = '/index.html'; // Redirige vers la page de connexion
+        const result = await response.json();
+        messageElement.innerHTML = `<p style="color: green;">${result.message}</p>`;
+        // Optionnel : Rediriger vers la page de connexion après un délai
+        setTimeout(() => {
+            window.location.href = '/index.html';
+        }, 2000);
     } else {
         const errorText = await response.text(); // Récupère le message d'erreur
-        alert(errorText); // Affiche le message d'erreur retourné par le serveur
+        messageElement.innerHTML = `<p style="color: red;">${errorText}</p>`;
     }
 };
