@@ -26,12 +26,12 @@ After the project is running, click on the following URL to open the application
 
 
 ## Libraries Used
-*Microsoft.Data.Sqlite:* For interacting with the SQLite database.
-*Microsoft.AspNetCore.Mvc:* For building the web application.
-*Microsoft.AspNetCore.Identity:* For handling user authentication and authorization.
+**Microsoft.Data.Sqlite:** For interacting with the SQLite database.
+**Microsoft.AspNetCore.Mvc:** For building the web application.
+**Microsoft.AspNetCore.Identity:** For handling user authentication and authorization.
 
 ## How It Works
-*Registration :*
+**Registration :**
 Users can create an account by providing a username, email, and password on the registration page (register.html). The information is sent to the server, where it is stored in the SQLite database.
 
 ## Login
