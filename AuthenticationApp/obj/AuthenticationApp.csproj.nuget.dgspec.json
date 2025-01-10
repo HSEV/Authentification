@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/AuthenticationApp.csproj": {}
+    "C:\\Users\\Sevo\\Documents\\Sevo\\Code\\Authentification\\Authentification\\AuthenticationApp\\AuthenticationApp.csproj": {}
   },
   "projects": {
-    "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/AuthenticationApp.csproj": {
+    "C:\\Users\\Sevo\\Documents\\Sevo\\Code\\Authentification\\Authentification\\AuthenticationApp\\AuthenticationApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/AuthenticationApp.csproj",
+        "projectUniqueName": "C:\\Users\\Sevo\\Documents\\Sevo\\Code\\Authentification\\Authentification\\AuthenticationApp\\AuthenticationApp.csproj",
         "projectName": "AuthenticationApp",
-        "projectPath": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/AuthenticationApp.csproj",
-        "packagesPath": "/Users/sevohakobyan/.nuget/packages/",
-        "outputPath": "/Users/sevohakobyan/Library/Mobile Documents/com~apple~CloudDocs/SEVO/SEVO/SEVO/Projet Persos/Authentification /Authentification/AuthenticationApp/obj/",
+        "projectPath": "C:\\Users\\Sevo\\Documents\\Sevo\\Code\\Authentification\\Authentification\\AuthenticationApp\\AuthenticationApp.csproj",
+        "packagesPath": "C:\\Users\\Sevo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sevo\\Documents\\Sevo\\Code\\Authentification\\Authentification\\AuthenticationApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/sevohakobyan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Sevo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -72,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
